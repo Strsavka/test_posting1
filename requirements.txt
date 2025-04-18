@@ -1,8 +1,9 @@
-httpx==
-idna==
-pip==
-python-telegram-bot==
-setuptools==
-sniffio==
-typing_extensions==
-wheel==
+python
+httpx
+idna
+pip
+python-telegram-bot
+setuptools
+sniffio
+typing_extensions
+wheel
